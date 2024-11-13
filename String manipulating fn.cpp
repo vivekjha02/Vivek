@@ -20,7 +20,7 @@ s1.replace(0, 1 , "s");  //s1= send for LORD
 cout<<s1<<endl;
 
 //insert
-s1.insert(0,s3);  //Don'tsend for LORD
+s1.insert(0,"AAJA");  //Don'tsend for LORD
 cout<<s1<<endl;
 
 //append

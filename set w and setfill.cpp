@@ -5,7 +5,7 @@ using namespace std;
 main()
 {
 
-setfill('?');	
+cout<<setfill('o')<<endl;
 cout<<setw(10)<<10<<endl;
 cout<<setw(20)<<110;
 }
